@@ -1,0 +1,20 @@
+:root {
+    --body-background: white;
+    --body-color: black;
+    --link-color: navy;
+    --company-color:#013f54;
+    --text-color:black;
+  }
+  
+  [data-theme="dark"] {
+    --body-background: #013f54;
+    --body-color: white;
+    --link-color: cyan;
+    --company-color:#013f54;
+    --text-color:white;
+  }
+  
+  * {
+    transition: all 0.1s ease;
+  }
+  

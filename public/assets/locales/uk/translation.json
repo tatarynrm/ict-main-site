@@ -1,0 +1,21 @@
+{
+  "welcome_to": "Вітаю в React",
+  "header__info":[
+    {"title":"Пн - Сб 9.00 - 18.00 Неділя вихідний","img":"TimeSvg"},
+    {"title":"Ел.адреса: contact@logistics.com","img":"EmailSvg"},
+    {"title":"Подзвоніть нам (00) 112 365 489 ","img":"PhoneSvg"}
+  ],
+  "header_menu": {
+    "home": "Головна",
+    "about": "Про нас",
+    "our_work": "Наші роботи",
+    "projects": "Проекти",
+    "contacts": "Контакти"
+  },
+  "header_menu-button": "Запит пропозиції",
+  "hero_sub-title":"Рішення для логістики та ланцюгів поставок",
+  "h1":"Your Gateway to any Destination in the World",
+  "what_we_do": "Що ми робимо",
+  "what_we_do_title": "Безпечні та надійні вантажні рішення"
+
+}

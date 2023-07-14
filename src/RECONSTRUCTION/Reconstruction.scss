@@ -1,0 +1,39 @@
+.reconstruction{
+    width: 100%;
+    position: relative;
+    height: 100vh;
+    background-color: rgba(255, 255, 255, 0.9);
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+   > img {
+    filter: blur(3px);
+      position: absolute;
+      width: 100%;
+      height: 100vh;
+      object-fit: cover;
+      background-position: center;
+    }
+    .title {
+      z-index: 999999;
+      display: flex;
+      text-align: center;
+      align-items: center;
+      justify-content: center;
+      // width: 400px;
+      background-color: rgb(24, 23, 23);
+  
+    }
+    h2{
+      font-size: 30px;
+      position: absolute;
+      z-index: 999;
+      color: rgb(12, 3, 3);
+      font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+      background-color: white;
+      padding: 1rem;
+      border-radius: 10px;
+      cursor: context-menu;
+    }
+  }

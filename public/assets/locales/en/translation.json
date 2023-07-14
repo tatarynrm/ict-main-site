@@ -1,0 +1,22 @@
+{
+  "welcome_to": "Welcome to React",
+  "header__info":[
+    {"title":"Mon - Sat 9.00 - 18.00 Sunday Closed"},
+    {"title":"Email: contact@logistics.com"},
+    {"title":"Call Us (00) 112 365 489 "}
+  ],
+  "header_menu": {
+    "home": "Home",
+    "about": "About",
+    "our_work": "Our Work",
+    "projects": "Projects",
+    "contacts": "Contacts"
+  },
+  "header_menu-button": "Request Quote",
+  "hero_sub-title":"Logisctis & Supply Chain Solutions",
+  "h1":"Your Gateway to any Destination in the World",
+  "what_we_do": "What We Do",
+  "what_we_do_title": "Safe & Reliable Cargo Solutions"
+
+
+}

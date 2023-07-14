@@ -1,0 +1,20 @@
+{
+  "welcome_to": "Witamy w React",
+  "header__info":[
+    {"title":"Pon - Sob 9.00 - 18.00 Dniem wolnym jest niedziela"},
+    {"title":"Adres e-mail: contact@logistics.com"},
+    {"title":"Zadzwoń do nas (00) 112 365 489 "}
+  ],
+  "header_menu": {
+    "home": "Glowna",
+    "about": "O nas",
+    "our_work": "Nasze prace",
+    "projects": "Projektowanie",
+    "contacts": "Łączność"
+  },
+  "header_menu-button": "Poproś o wycenę",
+  "hero_sub-title":"Rozwiązania logistyczne i zaopatrzeniowe",
+  "h1":"Your Gateway to any Destination in the World",
+  "what_we_do":"Co robimy",
+  "what_we_do_title": "Bezpieczne i niezawodne rozwiązania transportowe"
+}
